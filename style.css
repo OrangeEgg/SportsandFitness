@@ -1,0 +1,99 @@
+section{
+    font-family: 'Yusei Magic', cursive;
+    background: aliceblue;
+    color:steelblue;
+    padding-top:40pt;
+}
+section h1{
+    text-align: center;
+    color: navy;
+}
+section h2{
+    text-align:center;
+    color: navy;
+}
+#Logo2{
+    height:60px;
+    width:60px;
+    float: left
+}
+#jamesvince{
+    text-align:center;
+    color: navy;
+}
+#thelogo{
+    height: 10%;
+    width: 10%;
+    margin-left: 325px;
+}
+span{
+    text-align: center;
+}
+hr{
+    background-size: 5pt;
+    background-color: black;
+}
+#mainNavbar{
+    font-family: 'Yusei Magic', cursive;
+    font-size: 18px;
+    background-color: skyblue;
+}
+#mainNavbar .nav-link{
+    color:navy;
+}
+#mainNavbar .navbar-brand{
+    color: aliceblue;
+    font-size: 22.5px;
+}
+#mainNavbar .nav-link:hover{
+    color:black;
+    background-color: lightslategray;
+}
+#navbarimg{
+    height: 100px;
+    width: 100px;
+}
+
+.listItem{
+    padding-left: 6.5px;
+    padding-right: 6.5px;
+}
+
+#Image{
+    width: 200px;
+    height: 200px;
+}
+.modal-content{
+    margin-top: 175.67px;
+}
+.modal-header{
+    float:right;
+}
+
+.Btn{
+    background-color:aliceblue;
+    width: 135px;
+    height: 135px;
+}
+.Goals{
+    text-align: center;
+}
+
+.Gtext{
+    padding: 8pt;
+    padding-left: 10px;
+}
+
+.HNAD{
+    height: 370px;
+    width: 580px;
+}
+
+.Biblio{
+    color:darkblue;
+    font-size: 12pt;
+}
+
+#bulletPoint{
+    text-align: center;
+}
